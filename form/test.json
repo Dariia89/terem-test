@@ -1,0 +1,26 @@
+[
+    {
+        "name": "name",
+        "age": 24,
+        "city": "Moscow",
+        "friends": [
+            "Bob", "Pete", "Mike"
+        ]
+    },
+    {
+        "name": "name",
+        "age": 24,
+        "city": "Moscow",
+        "friends": [
+            "Bob", "Pete", "Mike"
+        ]
+    },
+    {
+        "name": "name",
+        "age": 24,
+        "city": "Moscow",
+        "friends": [
+            "Bob", "Pete", "Mike"
+        ]
+    }
+]
