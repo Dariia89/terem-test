@@ -1,0 +1,23 @@
+{
+  "name": "terem-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dariia89/terem-test.git"
+  },
+  "keywords": [],
+  "author": "Dariia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dariia89/terem-test/issues"
+  },
+  "homepage": "https://github.com/Dariia89/terem-test#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
